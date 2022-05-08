@@ -1,5 +1,9 @@
 # anime_remastering
 ## reference
+### GAN
+- [最近流行りのGANに挑戦してみた（生成タスク編）](https://www.nico-soda.jp/blog/post/20210712_000105.html)
+- SRGAN : 実写の方が使える
+- [超ニッチな二次元画像用リアルタイム超解像モデルを学習させた](https://zenn.dev/xiongjie/articles/ebd4d4f588a5ca)
 ### Real-ESRGAN 
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [paper](https://arxiv.org/pdf/2107.10833.pdf)
@@ -24,12 +28,12 @@
 ### EfficientNet
 - https://qiita.com/omiita/items/83643f78baabfa210ab1
 ### Anime 4K
+### data augmentation
+- [少数データでGANを学習させるテクニック](https://ai-scholar.tech/articles/gan/gan_Elastic_weight_consolidation)
+- [GANにもオーギュメンテーションは超有効だった！DAだけでSoTA達成した最新論文を解説！](https://qiita.com/omiita/items/3d967f30fcf73c435c6f)
+- [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/pdf/2006.06676.pdf)
 
 
-### GAN
-- [最近流行りのGANに挑戦してみた（生成タスク編）](https://www.nico-soda.jp/blog/post/20210712_000105.html)
-- SRGAN : 実写の方が使える
-- [超ニッチな二次元画像用リアルタイム超解像モデルを学習させた](https://zenn.dev/xiongjie/articles/ebd4d4f588a5ca)
 - 
 ### 競合技術
 - [anime refiner](https://ja.animerefiner.com/)
