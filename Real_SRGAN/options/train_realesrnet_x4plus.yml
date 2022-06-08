@@ -89,7 +89,7 @@ network_g:
 
 # path
 path:
-  pretrain_network_g: experiments/pretrained_models/SRGAN_x4_ImageNet.pth.tar
+  pretrain_network_g: experiments/pretrained_models/SRGAN_x4.pth
   param_key_g: params_ema
   strict_load_g: true
   resume_state: ~
