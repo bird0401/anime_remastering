@@ -1,2 +1,0 @@
-- SRGAN: 
-- Real-SRGAN: 
