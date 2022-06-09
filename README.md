@@ -1,9 +1,5 @@
 # anime_remastering
 ## reference
-### GAN
-- [最近流行りのGANに挑戦してみた（生成タスク編）](https://www.nico-soda.jp/blog/post/20210712_000105.html)
-- SRGAN : 実写の方が使える
-- [超ニッチな二次元画像用リアルタイム超解像モデルを学習させた](https://zenn.dev/xiongjie/articles/ebd4d4f588a5ca)
 ### Real-ESRGAN 
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [paper](https://arxiv.org/pdf/2107.10833.pdf)
@@ -23,27 +19,7 @@
 - [PyTorchと超解像に入門する](https://buildersbox.corp-sansan.com/entry/2019/02/21/110000)
 ### Teco GAN
 - [【機械学習】TecoGANで学生時代の古い映像を高画質で見たかった話](https://note.com/thedesignium/n/n79b4043d875d)
-### CNN
-- まとめ：https://kikaben.com/g-dl-methods-cnn/#chapter-5.5
-### EfficientNet
-- https://qiita.com/omiita/items/83643f78baabfa210ab1
-### Anime 4K
 ### data augmentation
 - [少数データでGANを学習させるテクニック](https://ai-scholar.tech/articles/gan/gan_Elastic_weight_consolidation)
 - [GANにもオーギュメンテーションは超有効だった！DAだけでSoTA達成した最新論文を解説！](https://qiita.com/omiita/items/3d967f30fcf73c435c6f)
 - [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/pdf/2006.06676.pdf)
-
-
-- 
-### 競合技術
-- [anime refiner](https://ja.animerefiner.com/)
-  - 高解像度化
-  - 2-3プルダウン(フレーム補完24→30)
-  - 陰影
-  - 処理の高速化(重要)
-  - 字幕とアニメを分離させて処理
-
-### difficulty
-- identifying needs 
-- collecting data
-- generating or supporting creating
