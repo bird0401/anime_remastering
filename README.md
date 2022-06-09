@@ -4,7 +4,6 @@
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [paper](https://arxiv.org/pdf/2107.10833.pdf)
 - [MSU Super-Resolution for Video Compression Benchmark](https://videoprocessing.ai/benchmarks/super-resolution-for-video-compression.html)
-- it can process fast to anime (fast real-esrgan)
 ### ESRGAN
 - [ESRGAN を使用した画像超解像](https://tensorflow.google.cn/hub/tutorials/image_enhancing?hl=ja)
 - [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219.pdf)
